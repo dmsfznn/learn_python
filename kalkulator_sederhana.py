@@ -31,4 +31,4 @@ elif choice == '4':
     print(num1,"/",num2,"=", divide(num1,num2))
 else:
     print("Input salah")
-#Selesai 1
+#Selesai 1.0
