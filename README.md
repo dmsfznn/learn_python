@@ -1,2 +1,2 @@
-# makul1
-What i learned in semester 1
+# learn_python
+Python 2021
